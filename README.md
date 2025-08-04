@@ -24,6 +24,10 @@ Monitors liquid level and temperature in a storage tank, controls a pump via ser
 ### 🔌 Circuit Diagram
 ![Circuit](Circuit.png)
 
+###  Simulation results
+![Hightemp](HIGHTEMPCondition.png)
+![Lowlevel](lowLEVELcondition.png)
+
 
 ## 🧾 Code Overview
 See `Tankmonitoringsystem.ino` for the full Arduino sketch.
