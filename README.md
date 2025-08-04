@@ -25,8 +25,7 @@ Monitors liquid level and temperature in a storage tank, controls a pump via ser
 ![Circuit](Circuit.png)
 
 ###  Simulation results
-![Hightemp](HIGHTEMPCondition.png)
-![Lowlevel](lowLEVELcondition.png)
+![Highlevel](overfillcondition.png)
 
 
 ## 🧾 Code Overview
